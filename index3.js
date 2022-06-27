@@ -4,7 +4,7 @@ fname:"jhon",
 sname:'cena',
 age:45,
 location:"USA",
-pincode:502032
+pincode:502032,
 
 role:{primaryskill:"front end",secondaryskill:"backend"}
 
