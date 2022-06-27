@@ -5,7 +5,10 @@ let y=x.filter((value)=>{
 
 return value%2==0
 
+
 })
 
 
 console.log(y)
+
+console.log(x)
